@@ -23,3 +23,30 @@ Documentações, anotações e outros materiais úteis.
    git clone https://github.com/vinie07/biblioteca-livre
 ```
 3. **Compartilhe** e dê sugestões! Estou sempre atualizando :)
+
+--- 
+
+## Estrutura do repositorio:
+```
+biblioteca-livre/
+│
+├───livros/
+│   ├── TECH/
+│   │   ├── c-basico.pdf
+│   │   ├── python-avancado.epub
+│   │   ├── linux-shell.pdf
+│   │   └── estrutura-dados.pdf
+│   └── CULT/
+│       ├── filosofia.pdf
+│       ├── psicologia.epub
+│       └── historia.pdf
+│
+├───meus-codigos/
+│   ├── projetos-faculdade/
+│   └── exercicios/
+│
+├───configuracoes/
+│   └── epub-no-tablet.md
+│
+└── README.md
+```
