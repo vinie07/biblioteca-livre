@@ -45,7 +45,7 @@ biblioteca-livre/
 │   ├── projetos-faculdade/
 │   └── exercicios/
 │
-├───configuracoes/
+├───docs/
 │   └── epub-no-tablet.md
 │
 └── README.md
